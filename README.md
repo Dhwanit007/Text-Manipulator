@@ -35,3 +35,10 @@ git clone ```https://github.com/your-username/Text-Manipulator.git```
 
 ## 💡 Use Case
 Perfect for bloggers, writers, and developers who need quick text transformations while writing or formatting articles.
+
+# ScreenShots
+## Dark Mode
+![image](https://github.com/user-attachments/assets/2d49b62d-7a3a-4ca8-bdd6-50df94182f55)
+
+## Light Mode
+![image](https://github.com/user-attachments/assets/7ff97559-64af-4d8b-b37a-5545cfc87e3d)

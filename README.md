@@ -18,7 +18,7 @@
 - Fully responsive and works well across all screen sizes
 
 ## 🌐 Live Demo
-🔗 View the Live Project
+🔗 [View the Live Project](https://dhwanit007.github.io/Text-Manipulator/)
 
 ## ⚙️ Setup Instructions
 - Clone the repository:
